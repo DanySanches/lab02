@@ -9,4 +9,4 @@ para  não parar a  exceução
 
 npm install nodemon -g
 
-para  rodar  scripts Automatizados 
+
