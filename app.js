@@ -3,7 +3,7 @@ const app = express()
 
 /*para  carregar  servidor(porta) para ver o arquivo no navegador
 digitamos http://localhost:8081
-vai aparece notGet rota não definida*/ 
+vai aparecer notGet rota não definida*/ 
 //app.listen(8081)
 
 /* vamos criar uma rota  */
